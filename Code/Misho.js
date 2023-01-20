@@ -4,5 +4,6 @@ console.log("First try ");
 
   let cats = 1;
   let dogs = 2 ;
+  console.log("But we have and three lions");
 }
 demo();
